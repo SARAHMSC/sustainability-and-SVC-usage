@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Clone_data/src/main/java"/>
+	<classpathentry kind="src" path="csv_merger/src/main/java"/>
+	<classpathentry kind="src" path="fetch_data_from_github/src/main/java"/>
+	<classpathentry kind="src" path="fetch_data_from_github/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Clone_data/target/classes"/>
+</classpath>
